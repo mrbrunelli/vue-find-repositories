@@ -1,24 +1,12 @@
-# vue-repo
+## :mag: Find Repositories with Vue.js
+> Encontre repositórios do GitHub pelo nome de usuário
 
-## Project setup
-```
-npm install
-```
+### É muito fácil
+> Digite o nome do usuário na barra de pesquisa e clique em pesquisar
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+![](./.github/mobile.png)
 
-### Compiles and minifies for production
-```
-npm run build
-```
+### Layout responsível
+> Bootstrap UI
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![](./.github/web.png)
